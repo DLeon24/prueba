@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: hola.mundo
+---
+testFramework: junit
+sourceLanguage: java

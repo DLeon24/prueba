@@ -1,0 +1,6 @@
+micronaut:
+    application:
+        name: hola-mundo
+    server:
+        port: 8081
+
